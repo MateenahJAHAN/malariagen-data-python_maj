@@ -52,6 +52,10 @@ For detailed setup instructions, see:
 - [Google Colab (TPU) setup guide](docs/source/colab_tpu_runtime.rst)
 Detailed instructions can be found in the [Contributors guide](https://github.com/malariagen/malariagen-data-python/blob/master/CONTRIBUTING.md).
 
+## Google Summer of Code (GSoC) 2026
+
+We are participating in GSoC 2026! If you are interested in contributing, please see our [GSoC project ideas and contributor guide](GSOC.md).
+
 ## AI use policy and guidelines
 
 See [AI use policy and guidelines](https://github.com/malariagen/malariagen-data-python/blob/master/AI-POLICY.md) for more details.
